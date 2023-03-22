@@ -17,28 +17,34 @@ Here are some ideas to get you started:
 <animated-image data-catalyst="" style="width: 200px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4257efa6f8da3fe96446cfef80166651050a7bdd348cf8fcc8403ef7ef940d56/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4257efa6f8da3fe96446cfef80166651050a7bdd348cf8fcc8403ef7ef940d56/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966" data-canonical-src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/4257efa6f8da3fe96446cfef80166651050a7bdd348cf8fcc8403ef7ef940d56/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966" target="_blank">
+              
+<div id="user-content-badges" dir="auto">
+  <a href="https://www.linkedin.com/in/adam-s-73b416241" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/iAdamosoft" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/b00ee237784dbf7849cba7c16d4442a73a94fb3fe1928efb79ef3163089c720e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="mailto:iadamo.inc@gmail.com" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/472d9062da490d9e073768dd1be0a4d545b3b6101d011d159f18bd724ff14459/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61696c2d6875653f7374796c653d666f722d7468652d6261646765266c6f676f3d4d61696c2e676f6f676c65266c6f676f436f6c6f723d7768697465" alt="Mail Badge" data-canonical-src="https://img.shields.io/badge/Mail-hue?style=for-the-badge&amp;logo=Mail.google&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</div>
+<h1 dir="auto"><a id="user-content---hello-there--" class="anchor" aria-hidden="true" href="#--hello-there--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+  Hello there
+  <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/4257efa6f8da3fe96446cfef80166651050a7bdd348cf8fcc8403ef7ef940d56/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="200" height="200"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/4257efa6f8da3fe96446cfef80166651050a7bdd348cf8fcc8403ef7ef940d56/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
+       
+</h1>
+<div align="center" dir="auto">
+  <animated-image data-catalyst="" style="width: 800px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1db9a48833d00f2a80fca0b73e249c7c1d17fdf2a97dd1a7af502e4539b4bcc2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3969763445724f6259517672572f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/1db9a48833d00f2a80fca0b73e249c7c1d17fdf2a97dd1a7af502e4539b4bcc2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3969763445724f6259517672572f67697068792e676966" height="300" data-canonical-src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/1db9a48833d00f2a80fca0b73e249c7c1d17fdf2a97dd1a7af502e4539b4bcc2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3969763445724f6259517672572f67697068792e676966" target="_blank">
+          
+       
+          
+</div>
 <ul dir="auto">
 <li>
 <p dir="auto">I am a software developer with over 1 year of experience developing software applications. I have a strong background in object-oriented programming languages such as JavaScript and Python. I am experienced in working with a variety of frameworks and libraries to create efficient, scalable, and user-friendly applications. I am highly skilled in problem-solving and passionate about creating innovative solutions to complex challenges. I am always eager to learn new technologies and techniques and am dedicated to continuously improving my skills and staying up-to-date with the latest trends and developments in the field.</p>
