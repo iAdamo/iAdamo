@@ -1,17 +1,17 @@
 <div align="center">
 <h3>Going into the matrix <img src="https://media.giphy.com/media/NGYowAJeEotYRtVzmN/giphy.gif" width="40" height="40"/></h3>
-  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1000" height="175"/>
+  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1000" height="170"/>
 </div>
 <h1 align="center">Hi 👋, I'm Adam Sanusi Babatunde - iAdamo</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="0"/>
   <div id="badges">
    <h4>Connect with me via:</h4>
   <a href="https://www.linkedin.com/in/adam-s-73b416241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/iAdamosoft">
+  <a href="https://twitter.com/ilearnsoft">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:iadamo.inc@gmail.com">
