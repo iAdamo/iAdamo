@@ -2,13 +2,13 @@
 <h3>Going into the matrix <img src="https://media.giphy.com/media/NGYowAJeEotYRtVzmN/giphy.gif" width="40" height="40"/></h3>
   <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1000" height="170"/>
 </div>
-<h1 align="center">Hi 👋, I'm Adam Sanusi Babatunde - iAdamo</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">I'm Adam Sanusi Babatunde</h1>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="0"/>
   <div id="badges">
    <h4>Connect with me via:</h4>
-  <a href="https://www.linkedin.com/in/adam-s-73b416241">
+  <a href="https://www.linkedin.com/in/adamsanusi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/ilearnsoft">
@@ -23,20 +23,67 @@
 
 ### :man_technologist: About Me :
 I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Lagos, Nigeria`.
-- I am part of the students of The Alx Software Engineering program and for the past few weeks, I have gained and developed skills I love and could only imagine before. 
-Oh, yes! Things had been somewhat difficult to some extent and things had been very interesting. Broad exposure to vital learning resources, Having to meet friends, making family, meeting mentors, having live learning sessions and having to meet likely minded people in my cohort has been a great driving force for me and we ain't giving up.<br>
+- I have hands-on experience with a variety of tools, including navigating the Linux system, utilizing Git for version control, ensuring meticulous project documentation, and delving into web infrastructural designs. My expertise also extends to object-relational mapping, showcasing a well-rounded skill set.
+Beyond the traditional scope of a backend developer, I am empowered to tackle challenges that demand versatility and innovation. I am actively seeking internship opportunities where I can contribute, learn, and thrive in a dynamic environment.As a soon-to-be graduate in software engineering, specializing in backend development, I bring diligence and a hunger for learning to the table. Eager to explore new technologies, I am enthusiastic about applying my skills in a real-world setting. I have hands-on experience with a variety of tools, including navigating the Linux system, utilizing Git for version control, ensuring meticulous project documentation, and delving into web infrastructural designs. My expertise also extends to object-relational mapping, showcasing a well-rounded skill set.
 
-- I am highly skilled in problem-solving and passionate about creating innovative solutions to complex challenges. I am always eager to learn new technologies and techniques and am dedicated to continuously improving my skills and staying up-to-date with the latest trends and developments in the field.
+- Beyond the traditional scope of a backend developer, I am highly skilled in problem-solving and empowered to tackle challenges that demand versatility and innovation. I am actively seeking internship opportunities where I can contribute, learn, and thrive in a dynamic environment.
 
-- :seedling:   **I’m currently learning Shell Scripting, C-Programming and Python**.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-s-73b416241)
+- :seedling:   **I’m currently undergoing Back-End Specialization**.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adamsanusi)
   - **iadamo.inc@gmail.com**
 
 ## :hammer_and_wrench: Languages and Tools
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> <br>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a> <br>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> 
+  </a>
+  <br>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+  </a>
+</p>
+
 
 ## Random Joke Generator
 
@@ -48,4 +95,4 @@ Oh, yes! Things had been somewhat difficult to some extent and things had been v
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAdamo&show_icons=true&theme=transparent)
 ----
 ## :writing_hand: AUTHOR:
-[Adam Sanusi Babatunde](https://github.com/iAdamo)
+[**Adam Sanusi Babatunde**](https://github.com/iAdamo)
