@@ -2,7 +2,7 @@
 <h3>Going into the matrix <img src="https://media.giphy.com/media/NGYowAJeEotYRtVzmN/giphy.gif" width="40" height="40"/></h3>
   <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="1000" height="170"/>
 </div>
-<h1 align="center">I'm Adam Sanusi Babatunde</h1>
+<h1 align="center">I'm Adam Babatunde Sanusi</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="0"/>
@@ -11,28 +11,30 @@
   <a href="https://www.linkedin.com/in/adamsanusi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/ilearnsoft">
+  <a href="https://twitter.com/builtbyadamo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:iadamo.inc@gmail.com">
+  <a href="mailto:tundey520@gmail.com">
     <img src="https://img.shields.io/badge/Mail-hue?style=for-the-badge&logo=Mail.google&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=iAdamo&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: About Me :
-I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Lagos, Nigeria`.
-- I have hands-on experience with a variety of tools, including navigating the Linux system, utilizing Git for version control, ensuring meticulous project documentation, and delving into web infrastructural designs. My expertise also extends to object-relational mapping, showcasing a well-rounded skill set.
-Beyond the traditional scope of a backend developer, I am empowered to tackle challenges that demand versatility and innovation. I am actively seeking internship opportunities where I can contribute, learn, and thrive in a dynamic environment.As a soon-to-be graduate in software engineering, specializing in backend development, I bring diligence and a hunger for learning to the table. Eager to explore new technologies, I am enthusiastic about applying my skills in a real-world setting. I have hands-on experience with a variety of tools, including navigating the Linux system, utilizing Git for version control, ensuring meticulous project documentation, and delving into web infrastructural designs. My expertise also extends to object-relational mapping, showcasing a well-rounded skill set.
+## :man_technologist: About Me :
+I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Abuja, Nigeria`.
+- Highly motivated Full-Stack Developer with extensive experience in Backend development, a strong foundation in React / React-Native, and a comprehensive understanding of modern technologies.
+- Skilled in building scalable applications using Node.js, Python, and C#, as well as leveraging tools like Docker, Version control systems, and security best practices. Proficient in networking, deployment, and DevOps workflows, making me well-equipped to manage and optimize both client-side and server-side solutions.
+- With a proven ability to tackle complex problems and deliver robust software solutions. My technical expertise extends beyond web and mobile applications to include key backend specializations, which makes me adaptable to diverse tech environments.
+- I am seeking a Developer/Engineer role, either as an intern, part-time or full-time, where I can leverage my skills and contribute to impactful projects. Known for my collaborative approach and strong communication, I thrive in dynamic team settings and am always eager to learn and grow alongside talented colleagues.
 
-- Beyond the traditional scope of a backend developer, I am highly skilled in problem-solving and empowered to tackle challenges that demand versatility and innovation. I am actively seeking internship opportunities where I can contribute, learn, and thrive in a dynamic environment.
 
+- :seedling:   **I’m currently building a mobile application**.
 
-- :seedling:   **I’m currently undergoing Back-End Specialization**.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adamsanusi)
-  - **iadamo.inc@gmail.com**
+## :mailbox:How to reach me:
+  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adamsanusi)
+  - **tundey520@gmail.com**
+  - [**View My Resume**](https://drive.google.com/file/d/1ZhoxeKb8SmTSHkhyE-mcePxDAzffymaS/view?usp=sharing)
 
 ## :hammer_and_wrench: Languages and Tools
 <p align="left"> 
